@@ -27,6 +27,9 @@ Original was made with [HSP][1].
 
 > *Note) Do not forget the path settings to c:\work , etc. !*
 
+## Images ##
+![shooter][8]
+
 ## Acknowledgments ##
 
 > *[Takato toki][4] the original author.*
@@ -42,6 +45,8 @@ Original was made with [HSP][1].
 [5]: http://osabisi.sakura.ne.jp/m2/
 [6]: http://www.rengoku-teien.com/index.html
 [7]: http://tomekame0126.hatenablog.com/entry/2014/06/26/222706
+[8]: https://github.com/tomekame0126/Common-shooter/blob/master/Common-shooter.png
+
 
 by Google Translate
 
