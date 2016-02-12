@@ -1,5 +1,5 @@
 # Common-shooter
-Lisp Game Programming 1
+
 このプログラムは、[HSPで作成されたシューティングゲーム][1]を、[CommonLisp][2] + [Lispbuilder-sdl][3]でリメイクしたものです。
 
 ##環境##
