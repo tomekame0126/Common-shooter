@@ -1,7 +1,5 @@
 # Common-shooter
 Lisp Game Programming 1
-
-by Google Translate
  
 This game is remade program with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
 
@@ -43,3 +41,5 @@ Original was made with [HSP][1].
 [4]: http://mclass13.web.fc2.com/index.htm
 [5]: http://osabisi.sakura.ne.jp/m2/
 [6]: http://www.rengoku-teien.com/index.html
+
+by Google Translate
