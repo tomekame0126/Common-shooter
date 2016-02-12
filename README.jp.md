@@ -1,10 +1,7 @@
 # Common-shooter
 [Lisp Game Programming 1][7]
-<<<<<<< HEAD
  
 This program is remade with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
-=======
->>>>>>> origin/master
 
 Original was made with [HSP][1]. 
 
@@ -19,8 +16,6 @@ Original was made with [HSP][1].
 > *Slime 2.15*
 
 > *Lispbuilder-sdl + ttf + mixer*
-
-
 
 ## How to use ##
 
@@ -45,8 +40,5 @@ Original was made with [HSP][1].
 [5]: http://osabisi.sakura.ne.jp/m2/
 [6]: http://www.rengoku-teien.com/index.html
 [7]: http://tomekame0126.hatenablog.com/entry/2014/06/26/222706
-<<<<<<< HEAD
 
 by Google Translate
-=======
->>>>>>> origin/master

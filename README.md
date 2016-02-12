@@ -31,15 +31,9 @@ Original was made with [HSP][1].
 
 > *[Takato toki][4] the original author.*
 
-<<<<<<< HEAD
 > *The sound effects are the [ザ・マッチメイカァズ] [5] 's material .*
  
 > *The BGM is the [煉獄庭園] [6]'s material  .*
-=======
-> *The sound effects are the [繧ｶ繝ｻ繝槭ャ繝√Γ繧､繧ｫ繧｡繧ｺ] [5] 's material .*
- 
-> *The BGM is the [辣臥剛蠎ｭ蝨綻 [6]'s material  .*
->>>>>>> origin/master
 
 [1]: http://mclass13.web.fc2.com/hspstudy/shooter1.htm
 [2]: http://www.sbcl.org/
@@ -49,8 +43,5 @@ Original was made with [HSP][1].
 [6]: http://www.rengoku-teien.com/index.html
 [7]: http://tomekame0126.hatenablog.com/entry/2014/06/26/222706
 
-<<<<<<< HEAD
 by Google Translate
-=======
-by Google Translate
->>>>>>> origin/master
+
