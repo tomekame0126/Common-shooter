@@ -31,9 +31,9 @@ Original was made with [HSP][1].
 
 >* [Takato toki][4] the original author. *
 
->* The sound effects use the [ザ・マッチメイカァズ] [5] 's material . *
+>* The sound effects are the [ザ・マッチメイカァズ] [5] 's material . *
  
->* The BGM uses the [煉獄庭園] [6]'s material  . *
+>* The BGM is the [煉獄庭園] [6]'s material  . *
 
 [1]: http://mclass13.web.fc2.com/hspstudy/shooter1.htm
 [2]: http://www.sbcl.org/
