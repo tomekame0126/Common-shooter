@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿#Lisp Game Programming 1#
-=======
-# Common-shooter
->>>>>>> origin/master
+#Lisp Game Programming 1#
 
 このプログラムは、[HSPで作成されたシューティングゲーム][1]を、[CommonLisp][2] + [Lispbuilder-sdl][3]でリメイクしたものです。
 
@@ -30,7 +26,6 @@
 
 ##謝辞##
 
-<<<<<<< HEAD
 > *原作者の[時　貴斗][4]さんに感謝します。*
 
 > *効果音には[ザ・マッチメイカァズ][5]さんの素材を使用しています。*
@@ -43,14 +38,3 @@
 [4]: http://mclass13.web.fc2.com/index.htm
 [5]: http://osabisi.sakura.ne.jp/m2/
 [6]: http://www.rengoku-teien.com/index.html
-=======
-> *効果音には[ザ・マッチメイカァズ][4]さんの素材を使用しています。*
- 
-> *BGMには[煉獄庭園][5]さんの素材を使用しています。*
-
-[1]: http://mclass13.web.fc2.com/hspstudy/shooter1.htm
-[2]: http://www.sbcl.org/
-[3]:https://github.com/lispbuilder/lispbuilder
-[4]:http://osabisi.sakura.ne.jp/m2/
-[5]:http://www.rengoku-teien.com/index.html
->>>>>>> origin/master
