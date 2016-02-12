@@ -1,0 +1,21 @@
+on Emacs
+
+1.command line mode
+
+  M-x shell
+
+2.sbcl
+
+  c:\work\sbcl
+
+3.load Common-shooter.lisp
+
+  (load "c:\\work\\Common-shooter.lisp")
+
+4.load main.lisp
+
+  (load (compile-file "c:\\work\\main.lisp"))
+
+5.make executable file
+
+  (sb-ext:save-lisp-and-die "c:\\work\\Common-shooter.exe" :toplevel 'main :executable t :purify t)
