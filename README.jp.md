@@ -1,37 +1,39 @@
-﻿# Common-shooter
-  Lisp Game Programming 1
+# Common-shooter
+[Lisp Game Programming 1][7]
+ 
+This program is remade with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
 
-このプログラムは、[HSPで作成されたシューティングゲーム][1]を、[CommonLisp][2] + [Lispbuilder-sdl][3]でリメイクしたものです。
+Original was made with [HSP][1]. 
 
-##環境##
+##Environment##
 
-> *windows 10*
+> *Windows 10*
 
 > *Emacs 24.2*
 
-> *sbcl 1.3.1*
+> *Sbcl 1.3.1*
 
-> *slime 2.15*
+> *Slime 2.15*
 
 > *Lispbuilder-sdl + ttf + mixer*
 
 
 
-##使い方##
+## How to use ##
 
-> *step1からstep16、standaloneホルダ内のプログラムをc:\workに展開します。*
-> 
-> *Emacsからslimeを起動させ、ホルダ内のプログラム（step1~16、Common-shooter）を実行します。*
+> *From step1~16 or standalone holder, move target program to c:\work.*
 
-> *注）Emacsやsbcl、c:\work等へのpathの設定を忘れずに！*
+> *Start the slime from Emacs, and then run the program(step1 ~ 16, Common-shooter).*
 
-##謝辞##
+> *Note) Do not forget the path settings to c:\work , etc. !*
 
-> *原作者の[時　貴斗][4]さんに感謝します。*
+## Acknowledgments ##
 
-> *効果音には[ザ・マッチメイカァズ][5]さんの素材を使用しています。*
+> *[Takato toki][4] the original author.*
+
+> *The sound effects are the [�U�E�}�b�`���C�J�@�Y] [5] 's material .*
  
-> *BGMには[煉獄庭園][6]さんの素材を使用しています。*
+> *The BGM is the [�����뉀] [6]'s material  .*
 
 [1]: http://mclass13.web.fc2.com/hspstudy/shooter1.htm
 [2]: http://www.sbcl.org/
@@ -39,3 +41,6 @@
 [4]: http://mclass13.web.fc2.com/index.htm
 [5]: http://osabisi.sakura.ne.jp/m2/
 [6]: http://www.rengoku-teien.com/index.html
+[7]: http://tomekame0126.hatenablog.com/entry/2014/06/26/222706
+
+by Google Translate
