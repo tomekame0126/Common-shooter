@@ -40,4 +40,3 @@
 [5]: http://osabisi.sakura.ne.jp/m2/
 [6]: http://www.rengoku-teien.com/index.html
 [7]: http://tomekame0126.hatenablog.com/entry/2014/06/26/222706
-[8]: https://github.com/tomekame0126/Common-abogadro/blob/master/Common-abogadro.png
