@@ -1,4 +1,4 @@
-#Lisp Game Programming 1#
+[Lisp Game Programming 1][7]
 
 このプログラムは、[HSPで作成されたシューティングゲーム][1]を、[CommonLisp][2] + [Lispbuilder-sdl][3]でリメイクしたものです。
 
@@ -38,3 +38,4 @@
 [4]: http://mclass13.web.fc2.com/index.htm
 [5]: http://osabisi.sakura.ne.jp/m2/
 [6]: http://www.rengoku-teien.com/index.html
+[7]: http://tomekame0126.hatenablog.com/entry/2014/06/26/222706
