@@ -20,7 +20,7 @@
 
 > *step1からstep16、standaloneホルダ内のプログラムをc:\workに展開します。*
 > 
-> *Emacsからslimeを起動させ、プログラム（step〇）を実行します。*
+> *Emacsからslimeを起動させ、ホルダ内のプログラム（step1~16、Common-shooter）を実行します。*
 
 > *注）Emacsやsbcl、c:\work等へのpathの設定を忘れずに！*
 
