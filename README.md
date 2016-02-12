@@ -33,7 +33,7 @@ Original was made with [HSP][1].
 
 > * [Takato toki][4] the original author. *
 
-> * The sound effects we use the [ザ・マッチメイカァズ] [5] 's material . *
+> * The sound effects use the [ザ・マッチメイカァズ] [5] 's material . *
  
 > * The BGM uses the [煉獄庭園] [6]'s material  . *
 
