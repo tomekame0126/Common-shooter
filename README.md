@@ -5,7 +5,7 @@ This program is remade with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
 
 Original was made with [HSP][1]. 
 
-##Environment##
+## Environment ##
 
 > *Windows 10*
 
@@ -34,9 +34,9 @@ Original was made with [HSP][1].
 
 > *[Takato toki][4] the original author.*
 
-> *The sound effects are the [ザ・マッチメイカァズ] [5] 's material .*
+> *The sound effects are the [繧ｶ繝ｻ繝槭ャ繝√Γ繧､繧ｫ繧｡繧ｺ] [5] 's material .*
  
-> *The BGM is the [煉獄庭園] [6]'s material  .*
+> *The BGM is the [辣臥剛蠎ｭ蝨綻 [6]'s material  .*
 
 [1]: http://mclass13.web.fc2.com/hspstudy/shooter1.htm
 [2]: http://www.sbcl.org/
